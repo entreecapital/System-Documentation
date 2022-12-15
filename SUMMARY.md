@@ -3,6 +3,7 @@
 * [System-Documentation](README.md)
   * [Forest Admin](readme/forest-admin/README.md)
     * [Deploy on Ubuntu](readme/forest-admin/deploy-on-ubuntu.md)
+    * [Development workflow](readme/forest-admin/development-workflow.md)
   * [Setup guide](readme/setup-guide.md)
   * [Manage your collection settings](readme/manage-your-collection-settings.md)
   * [Customize your fields](readme/customize-your-fields.md)
